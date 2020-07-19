@@ -8,7 +8,7 @@
 
 - 👯 I'm quite a geek so I'm doing various experiments with various tools and techs like VR/AR/XR, Games, Vision Tech. ,etc. If you looking forward to collaborate, kindly Hit me up!
 
-- 📫 You can reach me through my [Linkedin](https://www.linkedin.com/in/sang-gusti/) profile or my [Twitter](https://twitter.com/gusti_triandi) or send me an [Email](gustiowinata0@gmail.com)!
+- 📫 You can reach me through my [Linkedin](https://www.linkedin.com/in/sang-gusti/) profile or my [Twitter](https://twitter.com/gusti_triandi) or send me an Email(gustiowinata0@gmail.com)!
 
 - ⚡ Fun fact: I'm an Extrovert! I play a lot of games too 🎮🕹
 
