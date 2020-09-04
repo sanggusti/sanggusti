@@ -10,7 +10,7 @@
 
 - 📫 You can reach me through my [Linkedin](https://www.linkedin.com/in/sang-gusti/) profile or my [Twitter](https://twitter.com/gusti_triandi) or send me an Email(gustiowinata0@gmail.com)!
 
-- ⚡ Fun fact: I'm an Extrovert! I play a lot of games too 🎮🕹
+- ⚡ Fun fact:I play a lot of games🎮🕹
 
 Have a nice day!
 </samp>
