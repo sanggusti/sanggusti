@@ -1,6 +1,5 @@
-### Hi there 👋 I'm Gusti!
-
 <samp>
+### Hi there 👋 I'm Gusti!
   
 - 🔭 I’m currently a student at Bandung Institute of Technology, Indonesia and this summer working on AI Research Engineer Internship at Bukalapak. I also was an AI Intern at Nodeflux.
   
@@ -10,7 +9,7 @@
 
 - 📫 You can reach me through my [Linkedin](https://www.linkedin.com/in/sang-gusti/) profile or my [Twitter](https://twitter.com/gusti_triandi) or send me an Email(gustiowinata0@gmail.com)!
 
-- ⚡ Fun fact:I play a lot of games🎮🕹
+- ⚡ Fun fact:I play a lot of games and now are studying how to made the fun and epic ones too 🎮🕹
 
 Have a nice day!
 </samp>
