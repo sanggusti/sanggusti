@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Gusti!
 <samp>
+  
 - 🔭 I’m currently a student at Bandung Institute of Technology, Indonesia and this summer working on AI Research Engineer Internship at Bukalapak. I also was an AI Intern at Nodeflux.
   
 - 🏆 I'm doing various Freelance Projects and Competitions like Hackathons and Project Challenges (Main reason usually is to travel and sleep in the hotel xixixi)
