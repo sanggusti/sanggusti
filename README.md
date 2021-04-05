@@ -16,4 +16,4 @@ Have a nice day!
 
 ![Gusti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanggusti&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanggusti)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanggusti&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
