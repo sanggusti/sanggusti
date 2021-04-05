@@ -13,3 +13,5 @@
 
 Have a nice day!
 </samp>
+
+![Gusti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanggusti&show_icons=true&theme=synthwave)
