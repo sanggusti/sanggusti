@@ -1,11 +1,7 @@
 ### Hi there 👋 I'm Gusti!
 <samp>
-  
-- 🔭 I’m currently a student at Bandung Institute of Technology, Indonesia and this summer working on AI Research Engineer Internship at Bukalapak. I also was an AI Intern at Nodeflux.
-  
-- 🏆 I'm doing various Freelance Projects and Competitions like Hackathons and Project Challenges (Main reason usually is to travel and sleep in the hotel xixixi)
 
-- 👯 I'm quite a geek so I'm doing various experiments with various tools and techs like VR/AR/XR, Games, Vision Technology, etc. If you looking forward to collaborate, kindly Hit me up!
+- 👯 I'm doing various experiments with various tools and techs like VR/AR/XR, Games, Vision Technology, Machine Learning Models Creation, Inference Serving and Deployment, etc. If you looking forward to collaborate, kindly Hit me up!
 
 - 📫 You can reach me through my [Linkedin](https://www.linkedin.com/in/sang-gusti/) profile or my [Twitter](https://twitter.com/gusti_triandi) or send me an Email(gustiowinata0@gmail.com)!
 
@@ -13,7 +9,14 @@
 
 Have a nice day!
 </samp>
+<div align="center">
+  
+  ![Gusti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanggusti&show_icons=true&theme=synthwave&count_private=true)
 
-![Gusti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanggusti&show_icons=true&theme=synthwave&count_private=true)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanggusti&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanggusti&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
