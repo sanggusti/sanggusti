@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact:I play a lot of games and sometimes are making some for fun too 🎮🕹
 
-Have a nice day!
 </samp>
 <div align="center">
   
